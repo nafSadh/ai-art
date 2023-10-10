@@ -6,7 +6,7 @@ order: 4
 
 ## About ai speckles
 
-Welcome to **[ai speckles](https://ai.nafsadh.art)**, a canvas where 
+I'm **[Sadh](https://nafsadh.com)** and **[ai speckles](https://ai.nafsadh.art)** is my c a canvas where 
 **[Sadh](https://nafsadh.com)** is sharing imaginations, 
 supercharged with the innovative prowess of AI ART.
 
@@ -30,4 +30,5 @@ becomes possible when technology becomes a tool in the artist's palette.
 - **Insights**: A behind-the-scenes look, sharing the techniques and creative processes 
   that bring each AI-enhanced piece to life.
 
-Thank you for visiting `ai speckles`, and let’s explore the enchanting intersection of AI and art together.
+Thank you for visiting `ai speckles`, and let’s explore the enchanting intersection of 
+AI and art together.
