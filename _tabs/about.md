@@ -5,7 +5,7 @@ order: 4
 ---
 
 Hi!  
-I'm **[Sadh](https://nafsadh.com)** and **[`:art|if:`](https://ai.nafsadh.art)**
+I'm **[Sadh](https://nafsadh.com)** and **[`:art/if:`](https://ai.nafsadh.art)**
 is a canvas for me to share artifical intelligence aided art imaginations.
 
 ### etymology
