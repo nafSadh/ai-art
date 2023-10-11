@@ -26,7 +26,7 @@ clay painting.
 {:class="lead"}
 
 I told Midjourney to imagine based on the story above. The image above
-<sup>[view on MJ](https://www.midjourney.com/app/jobs/f86e4d0b-ba5a-464e-8948-3198d64012ad/)/sup<>
+<sup>[view on MJ](https://www.midjourney.com/app/jobs/f86e4d0b-ba5a-464e-8948-3198d64012ad/)</sup>
 captures the mode I wanted to see. Some other results I liked:
 
 <div class="row row-cols-1 row-cols-md-3">
