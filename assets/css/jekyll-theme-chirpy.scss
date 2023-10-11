@@ -5,9 +5,13 @@
 
 /* append your custom style below */
 
-.preview-img, .preview-img img {
+.post-meta .preview-img, .post-meta .preview-img img {
   border-radius: 0 !important;
   aspect-ratio: auto;
+}
+
+.post-preview .preview-img, .post-preview .preview-img img {
+  aspect-ratio: 40/21;
 }
 
 #sidebar #avatar {
