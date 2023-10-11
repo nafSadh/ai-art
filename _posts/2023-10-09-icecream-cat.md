@@ -7,7 +7,8 @@ tags: [icecream, cat, midjourney, dall-e-3]
 image: https://cdn.midjourney.com/1fe8dd27-47c2-497d-86b2-fcbbecb995f3/0_3.png
 ---
 
-Icecream in a sweet sweet cloud land being eaten by a kitten - watercolor, acrylic
+Icecream in a sweet sweet cloud land being eaten by a kitten - watercolor,
+acrylic
 {:class="lead"}
 
 I started with the prompt above on Midjourney. Here are a few outputs I liked:
@@ -37,18 +38,19 @@ cap="view on MJ"
 
 And this was surprising and interesting result:
 
-{% include an-img.html 
+{% include an-img.html
 src="https://cdn.midjourney.com/d0417786-4f9c-43b2-bd4c-1dcb49692c3b/0_1.png"
 href="https://www.midjourney.com/app/jobs/40f69272-463b-4065-840a-ea6afc11762f/"
-cap="view on MJ" 
+cap="view on MJ"
 %}
 
 This looks interesting. So, I came up with the following prompt:
 
-> Frustrated kitten with melting icecream in sweet sweet cloudland. watercolor, 
+> Frustrated kitten with melting icecream in sweet sweet cloudland. watercolor,
 > acrylic
 
 These are some results:
+
 <div class="row row-cols-1 row-cols-md-4">
 {% include an-img.html 
 src="https://cdn.midjourney.com/d146fad4-be46-4dbe-b20c-5dac25cfd076/0_3.png"
