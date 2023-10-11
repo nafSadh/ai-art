@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Icecream Cat"
+title: "Ice cream Cat"
 author: sadh
 categories: [From Prompt]
-tags: [icecream, cat, midjourney, dall-e-3]
+tags: [ice-cream, cat, midjourney, dall-e-3]
 image: https://cdn.midjourney.com/1fe8dd27-47c2-497d-86b2-fcbbecb995f3/0_3.png
 ---
 
@@ -51,7 +51,7 @@ This looks interesting. So, I came up with the following prompt:
 
 These are some results:
 
-<div class="row row-cols-1 row-cols-md-4">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 {% include an-img.html 
 src="https://cdn.midjourney.com/d146fad4-be46-4dbe-b20c-5dac25cfd076/0_3.png"
 href="https://www.midjourney.com/app/jobs/3c3890bd-0a06-4de3-9087-2c13b59437cd/"
