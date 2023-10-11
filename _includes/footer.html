@@ -33,7 +33,7 @@
     
     {% if site.gh_repo %}
         On <a href="{{site.gh_repo}}">GitHub</a>   
-        {{  "served using :THEME theme & :PLATFORM." | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+        {{  "served using :THEME & :PLATFORM." | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
     {% else %}
         {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
     {% endif %}
