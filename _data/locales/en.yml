@@ -4,3 +4,13 @@ copyright:
     template: This post is licensed under :LICENSE_NAME by the author.
     name: CC BY-NC-SA 4.0
     link: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+  # Displayed in the footer
+  brief: Some rights reserved.
+  verbose: >-
+    Except where otherwise noted, the blog posts on this site are licensed under 
+    the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    (CC BY-NC-SA 4.0) License by the author.
+
+
+    
