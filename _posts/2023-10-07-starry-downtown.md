@@ -3,9 +3,16 @@ layout: post
 title: "Starry Downtown"
 author: sadh
 categories: [From Story]
-tags: >- 
-[starry-night, urban-explore, coffee-shop, bookstore-visit, night-music,
-futuristic-imagery, casual-encounters, midjourney, dall-e-3]
+tags: 
+ - starry-night
+ - urban-explore
+ - coffee-shop
+ - bookstore-visit
+ - night-music
+ - futuristic-imagery
+ - casual-encounters
+ - midjourney
+ - dall-e-3
 image: https://cdn.midjourney.com/165bcbb6-0c56-46c4-b4fe-07a3d56f55c2/0_3.png
 ---
 I'm walking on the road on a starry night. Suddenly I see a shop that offers
