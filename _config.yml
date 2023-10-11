@@ -34,6 +34,7 @@ github:
 # twitter:
   # username: twitter_username # change to your twitter username
 
+gh_repo: https://github.com/nafsadh/ai-art
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
