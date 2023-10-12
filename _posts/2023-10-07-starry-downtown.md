@@ -79,11 +79,16 @@ I've tried same prompt on Chat GPT with DALL·E 3. Some outputs:
 
 <div class="row row-cols-1 row-cols-md-3">
 {% include an-img.html 
-src="https://ai.nafsadh.art/img/starry-downtown/dalle3-clay-painting"
-cap="**Instruction:** Nice weather. Sci-fi, futuristic, photorealistic, clay painting.<br/>Generated Prompt: 3D-rendered scene of a bustling futuristic street on a clear starry night. The main focus is on a pedestrian, caught in a moment of indecision. On one side, a cafe with modern architecture and floating menu boards emits a tantalizing aroma of coffee. Beside it, a bookstore with a transparent facade showcases its collection in augmented reality. In the foreground, a girl of Asian descent creates melodies on a futuristic musical instrument, its sounds visualized as light patterns. Diverse groups, each consisting of 3-5 individuals of varying gender and descent, form pockets of animated conversations. A skateboarder, equipped with a tech-enhanced board, glides effortlessly, while a biker with a distinctive red scarf makes a swift passage. Some people are seen with advanced headphones, while others enjoy reading from their holographic books. The ambient temperature seems optimal, and floating lanterns add to the ambiance." 
+src="https://ai.nafsadh.art/img/starry-downtown/dalle3-clay-painting.png"
+cap="**Instruction:** Nice weather. Sci-fi, futuristic, photorealistic, clay painting.
+Generated Prompt: 3D-rendered scene of a bustling futuristic street on a clear starry night. The main focus is on a pedestrian, caught in a moment of indecision. On one side, a cafe with modern architecture and 
+floating menu boards emits a tantalizing aroma of coffee. Beside it, a bookstore with a transparent facade showcases its collection in augmented reality. In the foreground, a girl of Asian descent creates 
+melodies on a futuristic musical instrument, its sounds visualized as light patterns. Diverse groups, each consisting of 3-5 individuals of varying gender and descent, form pockets of animated conversations. A 
+skateboarder, equipped with a tech-enhanced board, glides effortlessly, while a biker with a distinctive red scarf makes a swift passage. Some people are seen with advanced headphones, while others enjoy 
+reading from their holographic books. The ambient temperature seems optimal, and floating lanterns add to the ambiance." 
 %}
 {% include an-img.html 
-src="https://ai.nafsadh.art/img/starry-downtown/dalle3-3d."
+src="https://ai.nafsadh.art/img/starry-downtown/dalle3-3d.png"
 cap="(2) Nice weather. Sci-fi, futuristic, photorealistic, 3d." 
 %}
 {% include an-img.html 
