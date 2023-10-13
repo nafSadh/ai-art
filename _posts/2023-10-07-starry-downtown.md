@@ -36,9 +36,9 @@ So, I pitched the following text:
 > on Midjourney.
 {: .prompt-info }
 
+{::options parse_block_html="true" /}
 <details>
 <summary>View Prompt</summary>
-
 ```
 /imagine I’m walking on the road on a starry night. Suddenly I see a shop that 
 offers tea, coffee and light snacks. A bookstore next to it. I ponder what to do
@@ -49,8 +49,8 @@ wearing a red scarf suddenly passes by. Few people have headphones on, few
 people are reading books. Nice weather.
 Sci - fi, futuristic, photorealistic, clay painting.
 ```
-
 </details>
+{::options parse_block_html="false" /}
 
 <div class="row row-cols-1 row-cols-md-3">
 {% include an-img.html id="1"
