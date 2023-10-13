@@ -38,7 +38,13 @@ So, I pitched the following text:
 
 {% include view-prompt.html 
 prompt="/imagine 
-I’m walking on the road on a starry night. Suddenly I see a shop that offers tea, coffee and light snacks. A bookstore next to it. I ponder what to do next. Coffee smells good, and I like books. There are a few people here and there. A girl is playing a musical instrument on the side. Few groups of 3 - 5 people chatting in the background. Someone is playing with skateboards. A biker wearing a red scarf suddenly passes by. Few people have headphones on, few people are reading books. Nice weather. 
+I’m walking on the road on a starry night. Suddenly I see a shop that offers 
+tea, coffee and light snacks. A bookstore next to it. I ponder what to do next.
+Coffee smells good, and I like books. There are a few people here and there. A 
+girl is playing a musical instrument on the side. Few groups of 3 - 5 people 
+chatting in the background. Someone is playing with skateboards. A biker wearing
+a red scarf suddenly passes by. Few people have headphones on, few people are 
+reading books. Nice weather.
 Sci - fi, futuristic, photorealistic, clay painting."
 %}
 
