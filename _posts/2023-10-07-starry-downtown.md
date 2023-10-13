@@ -50,7 +50,7 @@ wearing a red scarf suddenly passes by. Few people have headphones on, few
 people are reading books. Nice weather.
 Sci - fi, futuristic, photorealistic, clay painting.
 ```
-<details>
+</details>
 
 <div class="row row-cols-1 row-cols-md-3">
 {% include an-img.html id="1"
