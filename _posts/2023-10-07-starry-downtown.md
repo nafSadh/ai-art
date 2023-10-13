@@ -51,14 +51,17 @@ Sci - fi, futuristic, photorealistic, clay painting."
 {% include an-img.html id="ffe5b8beb65f" model="Modjourney 5.2"
 src="https://cdn.midjourney.com/abc4cf5d-9e96-44ce-a679-ffe5b8beb65f/0_2.png"
 href="https://www.midjourney.com/app/jobs/ec4348a7-93eb-4dfb-9976-c198672ba8e4/"
+prompt_var="Sci - fi, futuristic, photorealistic, clay painting."
 %}
 {% include an-img.html id="d0fcca0ae014" model="Modjourney 5.2"
 src="https://cdn.midjourney.com/1c7c2c5c-1ab1-48b6-a5e3-d0fcca0ae014/0_1.png"
 href="https://www.midjourney.com/app/jobs/b4e16f0f-b548-4a26-abba-5cc246094ec0/"
+prompt_var="Sci - fi, futuristic, photorealistic, clay painting."
 %}
 {% include an-img.html id="09c5303eb213" model="Modjourney 5.2"
 src="https://cdn.midjourney.com/25f0b245-10e4-4dea-a29b-09c5303eb213/0_1.png"
 href="https://www.midjourney.com/app/jobs/529da417-22a9-4e15-9697-74e8fbb98f05/"
+prompt_var="Sci - fi, futuristic, photorealistic, clay painting."
 %}
 </div>
 
