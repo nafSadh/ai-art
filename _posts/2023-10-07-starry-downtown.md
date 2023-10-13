@@ -16,6 +16,9 @@ tags:
 image: https://cdn.midjourney.com/165bcbb6-0c56-46c4-b4fe-07a3d56f55c2/0_3.png
 ---
 
+A starry downtown walk unveils a lively, artistically sci-fi scene.
+{:class="display-6"}
+
 > I'm walking on the road on a starry night. Suddenly I see a shop that offers
 > tea, coffee and light snacks. A bookstore next to it. I ponder what to do next.
 > Coffee smells good, and I like books. There are a few people here and there. A
@@ -24,7 +27,7 @@ image: https://cdn.midjourney.com/165bcbb6-0c56-46c4-b4fe-07a3d56f55c2/0_3.png
 > wearing a red scarf suddenly passes by. Few people have headphones on, few
 > people are reading books. Nice weather. Sci - fi, futuristic, photorealistic,
 > clay painting.
-> {:class="lead"}
+
 
 ## Midjourney
 
