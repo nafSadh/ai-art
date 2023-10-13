@@ -37,6 +37,17 @@ So, I pitched the following text:
 {: .prompt-info }
 
 {::options parse_block_html="true" /}
+
+<details><summary markdown="span">Let's see some code!</summary>
+```python
+print('Hello World!')
+```
+Of course, it has to be Hello World, right?
+</details>
+<br/>
+
+{::options parse_block_html="false" /}
+
 <details>
 <summary>View Prompt</summary>
 ```
@@ -50,7 +61,6 @@ people are reading books. Nice weather.
 Sci - fi, futuristic, photorealistic, clay painting.
 ```
 </details>
-{::options parse_block_html="false" /}
 
 <div class="row row-cols-1 row-cols-md-3">
 {% include an-img.html id="1"
