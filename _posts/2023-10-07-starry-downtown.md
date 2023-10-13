@@ -40,7 +40,7 @@ So, I pitched the following text:
 
 <details>
 <summary>View Prompt</summary>
-```
+<code>
 /imagine I’m walking on the road on a starry night. Suddenly I see a shop that 
 offers tea, coffee and light snacks. A bookstore next to it. I ponder what to do
 next. Coffee smells good, and I like books. There are a few people here and 
@@ -49,7 +49,7 @@ people chatting in the background. Someone is playing with skateboards. A biker
 wearing a red scarf suddenly passes by. Few people have headphones on, few 
 people are reading books. Nice weather.
 Sci - fi, futuristic, photorealistic, clay painting.
-```
+</code>
 </details>
 
 <div class="row row-cols-1 row-cols-md-3">
@@ -103,7 +103,7 @@ I've tried same prompt on Chat GPT with DALL·E 3. Some outputs:
 src="https://ai.nafsadh.art/img/starry-downtown/dalle3-clay-painting.png"
 instruct="Nice weather. Sci-fi, futuristic, photorealistic, clay painting."
 model="DALL-E 3"
-chat_gpt="3D-rendered scene of a bustling futuristic street on a clear starry 
+<chat_gpt>3D-rendered scene of a bustling futuristic street on a clear starry 
 night. The main focus is on a pedestrian, caught in a moment of indecision. On 
 one side, a cafe with modern architecture and floating menu boards emits a 
 tantalizing aroma of coffee. Beside it, a bookstore with a transparent facade
@@ -115,7 +115,7 @@ skateboarder, equipped with a tech-enhanced board, glides effortlessly, while a
 biker with a distinctive red scarf makes a swift passage. Some people are seen 
 with advanced headphones, while others enjoy 
 reading from their holographic books. The ambient temperature seems optimal, and
-floating lanterns add to the ambiance." 
+floating lanterns add to the ambiance.</chat_gpt> 
 %}
 {% include an-img.html 
 src="https://ai.nafsadh.art/img/starry-downtown/dalle3-3d.png"
