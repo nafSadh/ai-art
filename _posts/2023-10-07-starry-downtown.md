@@ -103,7 +103,7 @@ I've tried same prompt on Chat GPT with DALL·E 3. Some outputs:
 src="https://ai.nafsadh.art/img/starry-downtown/dalle3-clay-painting.png"
 instruct="Nice weather. Sci-fi, futuristic, photorealistic, clay painting."
 model="DALL-E 3"
-<chat_gpt>3D-rendered scene of a bustling futuristic street on a clear starry 
+chat_gpt="3D-rendered scene of a bustling futuristic street on a clear starry 
 night. The main focus is on a pedestrian, caught in a moment of indecision. On 
 one side, a cafe with modern architecture and floating menu boards emits a 
 tantalizing aroma of coffee. Beside it, a bookstore with a transparent facade
@@ -114,8 +114,9 @@ of varying gender and descent, form pockets of animated conversations. A
 skateboarder, equipped with a tech-enhanced board, glides effortlessly, while a 
 biker with a distinctive red scarf makes a swift passage. Some people are seen 
 with advanced headphones, while others enjoy 
-reading from their holographic books. The ambient temperature seems optimal, and
-floating lanterns add to the ambiance.</chat_gpt> 
+reading from their holographic books.  
+The ambient temperature seems optimal, and
+floating lanterns add to the ambiance." 
 %}
 {% include an-img.html 
 src="https://ai.nafsadh.art/img/starry-downtown/dalle3-3d.png"
