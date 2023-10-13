@@ -3,12 +3,13 @@
     <div class="language-plaintext highlighter-rouge">
         <div class="code-header">
             <span data-label-text="Prompt"><i class="fas fa-code fa-fw small"></i></span>
-            <button aria-label="copy" data-title-succeed="Copied!">
+            <button aria-label="copy" data-title-succeed="Copied!" 
+            data-clipboard-text="{{include.prompt}}">
                 <i class="far fa-clipboard"></i>
             </button>
         </div>
         <div class="highlight">
-            <code>{{include.prompt}}</code>
+            <code class="p-2">{{include.prompt}}</code>
         </div>
     </div>
 </details>
