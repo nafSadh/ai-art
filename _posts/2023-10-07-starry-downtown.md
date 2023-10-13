@@ -28,19 +28,18 @@ So, I pitched the following text:
 > girl is playing a musical instrument on the side. Few groups of 3 - 5 people
 > chatting in the background. Someone is playing with skateboards. A biker
 > wearing a red scarf suddenly passes by. Few people have headphones on, few
-> people are reading books. Nice weather. Sci - fi, futuristic, photorealistic,
-> clay painting.
-
+> people are reading books. Nice weather. 
 
 ## Midjourney
 
 > Cover image is from [this job](https://www.midjourney.com/app/jobs/f86e4d0b-ba5a-464e-8948-3198d64012ad/) 
 > on Midjourney.
-> {: .prompt-info }
+{: .prompt-info }
 
 <details>
 <summary>View Prompt</summary>
-<code>
+
+```
 /imagine I’m walking on the road on a starry night. Suddenly I see a shop that 
 offers tea, coffee and light snacks. A bookstore next to it. I ponder what to do
 next. Coffee smells good, and I like books. There are a few people here and 
@@ -49,7 +48,8 @@ people chatting in the background. Someone is playing with skateboards. A biker
 wearing a red scarf suddenly passes by. Few people have headphones on, few 
 people are reading books. Nice weather.
 Sci - fi, futuristic, photorealistic, clay painting.
-</code>
+```
+
 </details>
 
 <div class="row row-cols-1 row-cols-md-3">
