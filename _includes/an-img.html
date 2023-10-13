@@ -42,16 +42,50 @@
         </p>
         {% endif %}
         {% assign pclass = "px-2 border-bottom border-secondary-subtle " %}
-        {% if include.prompt %}
-        <p>
-          <i class="fa-solid fa-feather-pointed"></i>
-          <b>prompt:</b>{{include.prompt}}
-        </p>
-        {% endif %}
-        {% if include.instructs %}
+        <!-- Midjourney -->
+        {% if include.prompt_var %}
         <div>
-          <i class="fa-solid fa-feather-pointed"></i>
-          <b>instruction</b><br /> {{include.instruct}}
+          <h5 class="m-0 p-2 bg-body-secondary">
+            <i class="fa-solid fa-feather-pointed"></i>
+            prompt variation
+          </h5>
+          <p class="{{pclass}} bg-{{th}}-subtle">
+             {{include.prompt_var}}
+          </p>
+        </div>
+        {% endif %}
+        {% if include.prompt %}
+        <div>
+          <h5 class="m-0 p-2 bg-body-secondary">
+            <i class="fa-solid fa-feather-pointed"></i>
+            prompt
+          </h5>
+          <p class="{{pclass}} bg-{{th}}-subtle">
+             {{include.prompt}}
+          </p>
+        </div>
+        {% endif %}
+        {% if include.instruct %}
+        <div>
+          <h5 class="m-0 p-2 bg-body-secondary">
+            <i class="fa-solid fa-feather-pointed"></i>
+            instruction
+          </h5>
+          <p class="{{pclass}} bg-{{th}}-subtle">
+             {{include.instruct}}
+          </p>
+        </div>
+        {% endif %}
+        <!-- DALL E & ChatGPT -->
+        {% if include.instruct %}
+        <div>
+          <h5 class="m-0 p-2 bg-body-secondary">
+            <i class="fa-solid fa-feather-pointed"></i>
+            instruction
+          </h5>
+          <p class="{{pclass}} bg-{{th}}-subtle">
+             {{include.instruct}}
+          </p>
         </div>
         {% endif %}
         {% if include.chat_gpt %}
