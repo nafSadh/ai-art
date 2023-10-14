@@ -1,7 +1,8 @@
 {% assign themes = "dark,light" | split: "," %}
 {% assign id = include.id %}
 {% unless include.id %}
-{% assign id = include.src | remove: "http://" |remove: "https://" | remove: ":"
+{% assign id = include.src | remove:"https://cdn.midjourney.com/" |
+remove: "http://" |remove: "https://" | remove: ":" | remove: ".png"
 %}
 {% assign id = id | replace: "/","_" | replace: ".","_" %}
 {% endunless %}
@@ -18,7 +19,7 @@
         <small>details</small>
       </button>
       {% if include.ref %}
-      <span class="{{b_clz}} text-start">
+      <span class="{{b_clz}} text-end w-100">
         <small>#{{include.ref}}</small>
       </span>
       {% endif %}

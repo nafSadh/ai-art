@@ -4,7 +4,7 @@ title: Little Red Kimono Hood
 author: sadh
 categories:
   - From Story
-image: "https://ai.nafsadh.art/img/little-red-kimono-hood/cute-cover.png"
+image: "https://ai.nafsadh.art/img/little-red-kimono-hood/cover.png"
 tags:
   - fairy-tale
   - midjourney
@@ -150,7 +150,7 @@ turning into tiny particles that drift away, signifying the impermanence of
 tales and remembrances." %}
 
 {% include an-img.html model="DALL·E 3"
-src="https://ai.nafsadh.art/img/little-red-kimono-hood/cute-cover.png"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/cover.png"
 chat_gpt=" The 'Little Red Kimono Hood' illustration transitioning into
 nothingness. The image, once filled with details and colors, now splinters and
 disintegrates. Particles from the illustration float away, representing the
@@ -225,7 +225,7 @@ Taking the prompt that generated #S1 and following up with
 
 <div class="row row-cols-2">
 
-{% include an-img.html model="DALL·E 3"
+{% include an-img.html model="DALL·E 3" ref="M1-4"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/modern-1-4.png"
 chat_gpt="
 Illustration of modern-day Japan, where the past meets the present. Akane, in a
@@ -246,5 +246,112 @@ astray. The urban landscape showcases a mix of glass skyscrapers and a
 refurbished minka. Overseeing this blend of old and new, the onmyoji, in a
 modern outfit, watches from a city cafe's balcony.
 " %}
+
+</div>
+
+### Midjourney
+
+Asked Midjourney to describe #M1-4 and then `/imagine`. Here are some results:
+
+<div class="row row-cols-3">
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/4be48f7c-58b4-4e4c-820a-83097327795b/0_2.png"
+href="https://www.midjourney.com/app/jobs/c714cd04-0619-4c6e-9ff2-282916eb517c/"
+prompt="
+The scene depicts people walking through an area surrounded by cherry blossoms, in the style of digital painting and drawing, colorful animations, hyper - realistic animal illustrations, bold, manga - inspired characters, city portraits, uhd image, traditional poses --ar 128:73
+"
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/459cb9c4-216c-4671-82e1-cbf68221dea1/0_0.png"
+href="https://www.midjourney.com/app/jobs/db7cf872-0e58-4a95-9931-7111ce9a9bad/"
+prompt="
+The scene depicts people walking through an area surrounded by cherry blossoms,
+in the style of digital painting and drawing, colorful animations, hyper -
+realistic animal illustrations, bold, manga - inspired characters, city
+portraits, uhd image, traditional poses --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/459cb9c4-216c-4671-82e1-cbf68221dea1/0_2.png"
+href="https://www.midjourney.com/app/jobs/2e371669-6289-489a-8be8-82bd197bbf16/"
+prompt="
+The scene depicts people walking through an area surrounded by cherry blossoms,
+in the style of digital painting and drawing, colorful animations, hyper -
+realistic animal illustrations, bold, manga - inspired characters, city
+portraits, uhd image, traditional poses --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/6c43b398-06e5-4db2-bc58-d080bddf5bea/0_1.png"
+href="https://www.midjourney.com/app/jobs/6b3945c8-c23a-4397-b7de-9a309c0a6de1/"
+prompt="
+With a hanabi dog in the background and some men walking people, in the style of
+colorful drawings, 2d game art, uhd image, depictions of urban life, charming
+anime characters, wealthy portraiture, zen - like tranquility --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/6c43b398-06e5-4db2-bc58-d080bddf5bea/0_3.png"
+href="https://www.midjourney.com/app/jobs/8e88f941-bf36-4295-bf0b-fc1a8bfa34ee/"
+prompt="
+With a hanabi dog in the background and some men walking people, in the style of
+colorful drawings, 2d game art, uhd image, depictions of urban life, charming
+anime characters, wealthy portraiture, zen - like tranquility --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/c02ac024-4aa1-443a-9de6-be8b89b9801d/0_3.png"
+href="https://www.midjourney.com/app/jobs/5a4dbd0a-1fc0-4073-90e8-65f476dac3c3/"
+prompt="
+A small group of people with dogs walking through a Japanese city, in the style
+of digital art wonders, official art, animated illustrations, hyperrealistic
+illustrations, floralpunk, comic art, elaborate kimono --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/93906122-4590-4a2a-80a5-2c04642d44ef/0_1.png"
+href="https://www.midjourney.com/app/jobs/15aeec06-d902-4fe8-a5b4-da74fb6af7e6/"
+prompt="
+Asian culture is represented by many people and a dog walking along, in the
+style of anime art, uhd image, onii kei, tinycore, city portraits, comic art,
+neogeo --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/56163c43-dfa3-4b4e-b278-844ea7ccbb83/0_0.png"
+href="https://www.midjourney.com/app/jobs/30d1db21-a179-4a88-8dac-76730036065e/"
+prompt="
+Anime artwork in the city from anime lover, in the style of folk - inspired
+illustrations, 32k uhd, orient - inspired, digital art techniques, charming
+characters, high detailed, digital art --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/83697f5c-cd65-41b5-b852-9561e0a4b8a2/0_1.png"
+href="https://www.midjourney.com/app/jobs/8c6f6d3f-6132-4d7d-9530-cd8ed579d054/"
+prompt="
+Anime, person, person, art, hd wallpaper hd wallpaper, anime, people, city,
+city, in the style of japanese folk art, realistic yet stylized, playful cartoon
+illustrations, multilayered realism, 32k uhd, illustrative realism, zen -
+inspired --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/56163c43-dfa3-4b4e-b278-844ea7ccbb83/0_1.png"
+href="https://www.midjourney.com/app/jobs/a1528745-8549-4204-b494-0a33735621f6/"
+prompt=" Anime artwork in the city from anime lover, in the style of folk -
+inspired illustrations, 32k uhd, orient - inspired, digital art techniques,
+charming characters, high detailed, digital art --ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/ab1733cd-4147-46c3-aedd-61047dbf8fe4/0_2.png"
+href="https://www.midjourney.com/app/jobs/38fd5869-432c-431f-b42c-f007aae5f772/"
+prompt=" The chinese anime city 'nexus 3', in the style of folk - inspired
+illustrations, elaborate kimono, hyper - realistic animal illustrations, cherry
+blossoms, playful cartoonish scenes, wealthy portraiture, multiple filter effect
+--ar 128:73 " %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/ab1733cd-4147-46c3-aedd-61047dbf8fe4/0_0.png"
+href="https://www.midjourney.com/app/jobs/826b28f4-c23f-48bc-9609-893e4fdad0b5/"
+prompt="
+The chinese anime city 'nexus 3', in the style of folk - inspired illustrations,
+elaborate kimono, hyper - realistic animal illustrations, cherry blossoms,
+playful cartoonish scenes, wealthy portraiture, multiple filter effect
+--ar 128:73 " %}
 
 </div>
