@@ -251,6 +251,8 @@ modern outfit, watches from a city cafe's balcony.
 
 ### Midjourney
 
+#### Describe and Imagine
+
 Asked Midjourney to describe #M1-4 and then `/imagine`. Here are some results:
 
 <div class="row row-cols-3">
@@ -353,5 +355,21 @@ The chinese anime city 'nexus 3', in the style of folk - inspired illustrations,
 elaborate kimono, hyper - realistic animal illustrations, cherry blossoms,
 playful cartoonish scenes, wealthy portraiture, multiple filter effect
 --ar 128:73 " %}
+
+</div>
+
+#### Imagine from Prompt
+
+Two interesting, but not very impressive results are:
+
+<div class="row row-cols-2">
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/545a74bf-aab6-48a8-a670-afb1e8945dad/0_1.png"
+href="https://www.midjourney.com/app/jobs/bf2241ad-c34e-4a10-b776-04f1d2f39500/" %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/db79d59d-634a-44ec-9fdb-8f54d0596996/0_1.png"
+href="https://www.midjourney.com/app/jobs/570e4931-e681-4588-b2ba-b0039d82cd15/" %}
 
 </div>
