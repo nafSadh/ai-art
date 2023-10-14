@@ -90,7 +90,7 @@ src="https://ai.nafsadh.art/img/little-red-kimono-hood/story-4.png"
 ```
 The result is very interesting!
 {% include an-img.html model="DALL·E 3"
-src="https://ai.nafsadh.art/img/little-red-kimono-hood/disintegrate-4.png"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/disintegrate.png"
 chat_gpt="Visual representation of the composite illustration from 'Little Red Kimono Hood' disintegrating into countless particles. The image fades and breaks apart, with fragments being carried away like dust or ashes, symbolizing the ephemeral nature of stories and memories."
 %}
 
