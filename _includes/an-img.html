@@ -14,10 +14,14 @@
       {% assign b_clz = "text-secondary btn btn-sm btn-" | append: th %}
       <button class="{{b_clz}} text-start w-100 "
         data-bs-toggle="offcanvas" data-bs-target="#detail_{{id}}_{{th}}">
-        <i class="fa-solid fa-bars-staggered"
-          style="--bs-text-opacity: .7;"></i>
-        <span style="--bs-text-opacity: .1;">details</span>
+        <i class="fa-solid fa-bars-staggered"></i>
+        <small>details</small>
       </button>
+      {% if include.ref %}
+      <span class="{{b_clz}} text-start">
+        <small>#{{include.ref}}</small>
+      </span>
+      {% endif %}
       <a class="{{b_clz}} text-end"
         href="{{include.href | default: include.src}}" target="_blank">
         {% if include.href %}
