@@ -373,3 +373,46 @@ src="https://cdn.midjourney.com/db79d59d-634a-44ec-9fdb-8f54d0596996/0_1.png"
 href="https://www.midjourney.com/app/jobs/570e4931-e681-4588-b2ba-b0039d82cd15/" %}
 
 </div>
+
+## Phone wallpapers
+
+Finally some wallpapers for your phone!
+
+<div class="row row-cols-2 row-cols-md-4">
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-1.png"
+chat_gpt=" Flat minimalist phone wallpaper depicting Akane in a vibrant red
+kimono top and jeans, walking under a stylized cherry blossom tree. The
+background is a muted pastel shade, with subtle hints of modern Tokyo
+skyscrapers in the distance.
+
+" %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-2.png"
+chat_gpt=" Minimalist representation of Akane against a gradient backdrop, with
+a singular stylized cherry blossom tree and faint outlines of Tokyo's urban
+landscape.
+
+" %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-3.png"
+chat_gpt="
+
+Simplified flat design showcasing Akane walking beneath a geometric cherry
+blossom branch. The scene is set against a calm pastel shade with hints of the
+cityscape. " %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-4.png"
+chat_gpt="
+
+Flat minimalist depiction of Akane in a bright red kimono top paired with jeans.
+She's set against a gentle pastel background, complemented by abstract cherry
+blossoms.
+
+" %}
+
+</div>
