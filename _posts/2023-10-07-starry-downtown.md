@@ -102,10 +102,23 @@ van Gogh's famous painting [The Starry Night](The Starry Night).
 I've tried same prompt on Chat GPT with DALL·E 3. Some outputs:
 
 <div class="row row-cols-1 row-cols-md-3">
-{% include an-img.html 
-src="https://ai.nafsadh.art/img/starry-downtown/dalle3-clay-painting.png"
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/starry-downtown/dalle3-clay-1.png"
 instruct="Nice weather. Sci-fi, futuristic, photorealistic, clay painting."
-model="DALL-E 3"
+chat_gpt="Photo of a futuristic starry night where a pedestrian is walking. 
+On one side, there's a cozy shop emitting a warm aroma of coffee and tea, 
+with a signboard that reads 'Tea, Coffee & Light Snacks'. Adjacent to the 
+cafe is a well-lit bookstore with an inviting ambiance. In the vicinity, 
+a young girl with dark hair is passionately playing a stringed instrument. 
+Groups of 3-5 individuals, of diverse descent and gender, are engaged in 
+lively conversations. Among them, a young man with a skateboard is attempting 
+a trick while a biker with a conspicuous red scarf zooms past. Some individuals 
+are engrossed in their books, while others are lost in music, wearing headphones. 
+The weather seems just right, not too cold, not too warm."
+%}
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/starry-downtown/dalle3-clay-2.png"
+instruct="Nice weather. Sci-fi, futuristic, photorealistic, clay painting."
 chat_gpt="3D-rendered scene of a bustling futuristic street on a clear starry 
 night. The main focus is on a pedestrian, caught in a moment of indecision. On 
 one side, a cafe with modern architecture and floating menu boards emits a 
@@ -118,15 +131,19 @@ skateboarder, equipped with a tech-enhanced board, glides effortlessly, while a
 biker with a distinctive red scarf makes a swift passage. Some people are seen 
 with advanced headphones, while others enjoy 
 reading from their holographic books.  
-The ambient temperature seems optimal, and
-floating lanterns add to the ambiance." 
+The ambient temperature seems optimal, and floating lanterns add to the ambiance." 
 %}
-{% include an-img.html 
-src="https://ai.nafsadh.art/img/starry-downtown/dalle3-3d.png"
-cap="(2) Nice weather. Sci-fi, futuristic, photorealistic, 3d." 
-%}
-{% include an-img.html 
-src="https://ai.nafsadh.art/img/starry-downtown/dalle3-1"
-cap="Nice weather" 
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/starry-downtown/dalle3-clay-3.png"
+chat_gpt="Photorealistic rendering of a scene set in a futuristic urban setting 
+under a starlit sky. Neon signs indicate a shop offering aromatic tea and coffee, 
+next to which stands a bookstore with interactive book displays. A girl of Asian 
+descent is engrossed in playing a musical instrument that sends ripples of light 
+into the air. Background conversations from diverse groups of 3-5 people add to 
+the ambiance. Amidst them, a skateboarder, surrounded by neon trails, is in the 
+midst of a maneuver. A biker, distinguished by a vibrant red scarf, dashes through, 
+leaving a trail of light. Some individuals, sporting state-of-the-art headphones, 
+seem to be in their own worlds, while a few are engrossed in reading holographic 
+books."
 %}
 </div>
