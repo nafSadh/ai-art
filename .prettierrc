@@ -1,4 +1,13 @@
 {
-  "tabWidth": 4,
-  "useTabs": false
+  "tabWidth": 2,
+  "useTabs": false,
+  "printWidth": 80,
+  "proseWrap": "always",
+  "markdown": {
+    "format": {
+      "enable": true,
+      "wrapAttributes": "auto",
+      "wrapLineLength": 80
+    }
+  }
 }
