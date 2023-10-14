@@ -73,7 +73,7 @@ Tell the story of little red riding hood in Japanese setting
 
 Got following results when prompted with `draw it`:
 
-<div class="row row-cols-2 row-cols-md-4">
+<div class="row row-cols-2">
 {% include an-img.html model="DALL·E 3"
 ref="S1"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/story-1.png"
