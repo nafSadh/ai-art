@@ -72,15 +72,33 @@ draw it
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/story-1.png"
+chat_gpt="Illustration of a picturesque Japanese village with mountains and 
+forests. Akane, a young girl in a vibrant red kimono, is walking through a 
+forest of cherry blossoms. A cunning kitsune disguised as a samurai approaches 
+her, while in the distance, an old minka (traditional Japanese house) can be 
+seen. The kitsune is pointing Akane in the wrong direction. Nearby, the 
+silhouette of the onmyoji is visible, watching over the scene."
 %}
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/story-2.png"
+chat_gpt="Artistic rendering of Akane in a red kimono, standing suspiciously in 
+her grandmother's minka. The kitsune, disguised as the grandmother, is on the 
+bed, trying to lure Akane closer. Outside the window, cherry blossoms are in 
+full bloom, and the shadow of the onmyoji can be seen approaching the house."
 %}
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/story-3.png"
+chat_gpt="Scene depicting the moment the onmyoji confronts the kitsune in the 
+minka. Akane and her real grandmother watch in surprise as the spiritual master 
+uses his abilities to subdue the cunning fox. The room is adorned with 
+traditional Japanese decor, and outside, the serene village is visible."
 %}
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/story-4.png"
+chat_gpt="Illustration of the village's renowned onmyoji transforming the 
+subdued kitsune into a protective guardian statue. Akane, her grandmother, and 
+the villagers gather around, watching the magical transformation. The statue 
+stands tall, guarding the village, with mountains and forests in the backdrop."
 %}
 </div>
 
