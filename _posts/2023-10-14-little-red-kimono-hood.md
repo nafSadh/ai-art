@@ -402,12 +402,15 @@ She's set against a gentle pastel background, complemented by abstract cherry
 blossoms." %}
 
 {% include an-img.html model="DALL·E 3"
-src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-anicent-1.png"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-ancient-1.png"
 tweak="make it ancient, still keep flat style"
 chat_gpt="
 Minimalist design showcasing Akane in a bright red traditional kimono. She's set
 against a gentle pastel backdrop, complemented by abstract cherry blossoms and
 ancient Japanese structures." %}
+
+</div>
+<div class="row row-cols-2 row-cols-md-5">
 
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/pw-hdr-1.png"
@@ -440,5 +443,14 @@ src="https://ai.nafsadh.art/img/little-red-kimono-hood/pw-hdr-4.png"
 tweak="hdr, intricate detail<br/>don't forget the fox<br/>where is the hood?"
 chat_gpt="
 Detailed HDR scene of Akane in a bright red traditional kimono complemented by a hood, walking amidst a detailed ancient Japanese landscape. A sly fox keeps a watchful eye on her. Surrounding Akane are meticulous cherry blossom trees, ornate bridges, and traditional Japanese structures illuminated with striking lighting." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/pw-hdr-5.png"
+tweak="hdr, intricate detail<br/>don't forget the fox<br/>where is the hood?"
+chat_gpt="
+HDR representation of Akane in a striking red age-old kimono paired with a hood.
+A kitsune fox is stealthily nearby. The scene features a detailed cherry blossom
+tree and meticulously crafted Japanese buildings.
+" %}
 
 </div>
