@@ -15,7 +15,7 @@ tags:
 
 ## Realistic
 
-<div class="row row-cols-2 row-cols-md-3">
+<div class="row row-cols-1 row-cols-md-2">
 
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/solar-eclipse/1.png"
@@ -82,7 +82,7 @@ chat_gpt="
 
 ## Surreal
 
-<div class="row row-cols-2 row-cols-md-3">
+<div class="row row-cols-1 row-cols-md-2">
 
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/solar-eclipse/sr1.png"
@@ -139,7 +139,9 @@ creating a serene atmosphere." %}
 
 ## Cave Painting
 
-<div class="row row-cols-2 row-cols-md-3">
+### DALL·E 3
+
+<div class="row row-cols-1 row-cols-md-2">
 
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/solar-eclipse/cp1.png"
@@ -175,7 +177,7 @@ last quarter phase, drawing inspiration from cave paintings. The composition
 focuses on the eclipse as a singular motif, complemented by sparse, hand-drawn symbols reminiscent of ancient wall art." %}
 
 {% include an-img.html model="DALL·E 3"
-src="https://ai.nafsadh.art/img/solar-eclipse/cp2.png"
+src="https://ai.nafsadh.art/img/solar-eclipse/cpm2.png"
 tweaks="recreate the cave paintings, but in a minimal way"
 chat_gpt="
 Wide photo illustrating the solar eclipse during the last quarter phase in the
@@ -201,16 +203,118 @@ influences from cave paintings, but in a minimalist approach. The image blends
 the rugged essence of prehistoric art with modern simplicity, focusing on the
 eclipse and a few essential symbols." %}
 
-{% include an-img.html model="DALL·E 3"
-src="https://ai.nafsadh.art/img/solar-eclipse/cp .png" tweaks="" chat_gpt="
+</div>
 
-" %}
+### Modjourney
+
+<div class="row row-cols-1 row-cols-md-2">
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/2a79eb54-5773-41fd-a032-78e4b18e5ada/0_3.png"
+href="https://www.midjourney.com/app/jobs/1ce3f38a-67eb-4686-9453-e8c9ecfd9697/"
+prompt="
+Wide photo capturing a representation of the solar eclipse in its last quarter
+phase, inspired by cave paintings. The composition uses rough lines and muted
+colors, evoking the feel of drawings etched on cave walls by early humans."
+notes="Not eclipse, nor cave painting! But good wallpaper."
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/82e06993-47aa-4660-b414-91c9a733a092/0_1.png"
+href="https://www.midjourney.com/app/jobs/d64aeaba-4aca-41d5-82ea-3737eacaa1e6/"
+prompt="
+Wide photo capturing a representation of the solar eclipse in its last quarter
+phase, inspired by cave paintings. The composition uses rough lines and muted
+colors, evoking the feel of drawings etched on cave walls by early humans."
+notes="Nice surreal landscape!"
+%}
 
 </div>
 
+A few results from this prompt was interesting:
+
+> Wide photo capturing the solar eclipse during the last quarter phase,
+> illustrated in the style of ancient cave paintings. The eclipse is depicted as
+> a simple circular shape surrounded by abstract patterns and symbols
+> reminiscent of prehistoric art.
+
+<div class="row row-cols-1 row-cols-md-2">
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/cff409fb-9012-499a-ae12-4cc6c5689fe6/0_1.png"
+href="https://www.midjourney.com/app/jobs/ad1ac7ca-781a-4389-8091-d7c4f64f20d5/"
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/8a24b9a2-63a8-44d1-bf6d-56e165d3e3d2/0_2.png"
+href="https://www.midjourney.com/app/jobs/eafdd1ef-8755-4712-8ac3-73c2f7597d4b/"
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/8a24b9a2-63a8-44d1-bf6d-56e165d3e3d2/0_3.png"
+href="https://www.midjourney.com/app/jobs/e28d205f-5b54-47fc-a0d1-3e2cfbabda3d/"
+notes="Won't call it cave painting, but I'd like it as a desk mat."
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/7b9f62ac-f730-4f5a-ad90-422d9d16305c/0_2.png"
+href="https://www.midjourney.com/app/jobs/901b5da2-7f5d-4fb0-b454-958773730c90/"
+notes="Lots of detail for cave paintings!"
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/00f7e732-121d-4135-993f-38e2ee891c8a/0_0.png"
+href="https://www.midjourney.com/app/jobs/e1af7a2f-1acc-489d-8702-548dfae516af/"
+tweaks="pan up"
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/781e451e-5843-45ff-92df-9a2da29c1550/0_1.png"
+href="https://www.midjourney.com/app/jobs/eab36299-2416-4cae-847c-6dac9259f4a3/"
+tweaks="pan up"
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/7b9f62ac-f730-4f5a-ad90-422d9d16305c/0_1.png"
+href="https://www.midjourney.com/app/jobs/c1985ede-1c56-45d1-8661-74e476fe7407/"
+notes="Looks like someone is calculating!"
+%}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/903b7fd2-d28b-4d7d-aae7-be9377e23ef2/0_1.png"
+href="https://www.midjourney.com/app/jobs/330860aa-dcd0-46d1-81f4-70b6212e0e8c/"
+prompt="
+Wide photo capturing the essence of ancient cave paintings in a minimalist
+manner. The solar eclipse during the last quarter phase is depicted as a simple
+circular shape, surrounded by basic, abstract patterns reminiscent of
+prehistoric symbols, all set against a muted backdrop."
+snip="all set against a muted backdrop"
+%}
+
+</div>
+
+Two more with:
+
+> Wide photo capturing the essence of ancient cave paintings in a minimalist
+> manner. The solar eclipse during the last quarter phase is depicted as a
+> simple circular shape, surrounded by basic, abstract patterns reminiscent of
+> prehistoric symbols, all set against a muted backdrop.
+
+<div class="row row-cols-1 row-cols-md-2">
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/05bc0298-1801-4cbb-83cd-3ac2714d8abc/0_1.png"
+href="https://www.midjourney.com/app/jobs/68b2b3a9-f5b3-4ac8-a613-5ea8021c4345/"
+%}
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/73460460-3ef2-494b-a89d-c333a96c8631/0_0.png"
+href="https://www.midjourney.com/app/jobs/3c2b745a-5781-4bc3-a11c-ea4e178b3263/"
+%}
+</div>
+These two looks a bit more like modern art, set in alien planet. No Eclipse to
+be seen.
+
 ## template
 
-<div class="row row-cols-2 row-cols-md-3">
+<div class="row row-cols-1 row-cols-md-2">
 
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/solar-eclipse/1.png"
