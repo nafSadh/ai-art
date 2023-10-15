@@ -388,7 +388,7 @@ child's hand, yet spaced out to reduce clutter
 
 ## Phone wallpapers
 
-<div class="row row-cols-2 row-cols-md-3">
+<div class="row row-cols-2 row-cols-md-4">
 
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/solar-eclipse/wp1.png"
