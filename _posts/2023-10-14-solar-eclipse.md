@@ -306,3 +306,38 @@ href="https://www.midjourney.com/app/jobs/3c2b745a-5781-4bc3-a11c-ea4e178b3263/"
 </div>
 These two looks a bit more like modern art, set in alien planet. No Eclipse to
 be seen.
+
+## Child's painting
+
+### DALL·E 3
+
+<div class="row row-cols-1 row-cols-md-2">
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/solar-eclipse/cd1.png"
+instruct="now do the same but as a child's drawing"
+chat_gpt="
+Wide photo of the solar eclipse during its last quarter phase, rendered with the
+whimsy of a child's drawing. The composition includes the sun and moon as big,
+bold circles, with a few crayon-like strokes and patterns symbolizing stars and
+clouds." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/solar-eclipse/cd21.png"
+instruct="now do the same but as a child's drawing"
+chat_gpt="
+Wide photo illustrating the solar eclipse in its last quarter phase, taking cues
+from the world of children's early day art. The composition is bustling with
+activity, featuring the sun, moon, and a parade of fantastical beings and
+patterns, reflecting a child's boundless imagination." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/solar-eclipse/cd21.png"
+instruct="now do the same but as a child's drawing"
+chat_gpt="
+Wide photo of the solar eclipse during its last quarter phase, influenced by the
+essence of children's early paintings but with a cleaner composition. The sky has
+a handful of stars and imaginative elements, drawn with the enthusiasm of a
+child's hand, yet spaced out to reduce clutter." %}
+
+</div>
