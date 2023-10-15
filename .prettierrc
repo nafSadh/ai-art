@@ -2,7 +2,7 @@
   "tabWidth": 2,
   "useTabs": false,
   "printWidth": 80,
-  "proseWrap": "always",
+  "proseWrap": "preserve",
   "markdown": {
     "format": {
       "enable": true,
