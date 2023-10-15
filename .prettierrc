@@ -6,7 +6,6 @@
   "markdown": {
     "format": {
       "enable": true,
-      "wrapAttributes": "auto",
       "wrapLineLength": 80
     }
   }

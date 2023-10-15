@@ -385,34 +385,60 @@ src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-1.png"
 chat_gpt=" Flat minimalist phone wallpaper depicting Akane in a vibrant red
 kimono top and jeans, walking under a stylized cherry blossom tree. The
 background is a muted pastel shade, with subtle hints of modern Tokyo
-skyscrapers in the distance.
-
-" %}
-
-{% include an-img.html model="DALL·E 3"
-src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-2.png"
-chat_gpt=" Minimalist representation of Akane against a gradient backdrop, with
-a singular stylized cherry blossom tree and faint outlines of Tokyo's urban
-landscape.
-
-" %}
+skyscrapers in the distance." %}
 
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-3.png"
 chat_gpt="
-
 Simplified flat design showcasing Akane walking beneath a geometric cherry
 blossom branch. The scene is set against a calm pastel shade with hints of the
-cityscape. " %}
+cityscape." %}
 
 {% include an-img.html model="DALL·E 3"
 src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-4.png"
 chat_gpt="
-
 Flat minimalist depiction of Akane in a bright red kimono top paired with jeans.
 She's set against a gentle pastel background, complemented by abstract cherry
-blossoms.
+blossoms." %}
 
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/phone-wall-anicent-1.png"
+tweak="make it ancient, still keep flat style"
+chat_gpt="
+Minimalist design showcasing Akane in a bright red traditional kimono. She's set
+against a gentle pastel backdrop, complemented by abstract cherry blossoms and
+ancient Japanese structures." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/pw-hdr-1.png"
+tweak="hdr, intricate detail, don't forget the fox"
+chat_gpt="
+Detailed HDR depiction of Akane in a bright red traditional kimono, accompanied
+by the silhouette of a sly fox lurking nearby. The background showcases
+meticulous cherry blossom trees, ornate bridges, and traditional Japanese
+structures, all illuminated with dynamic lighting." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/pw-hdr-2.png" tweak="
+hdr, intricate detail<br/> don't forget the fox" chat_gpt=" HDR design of Akane
+in an opulent red age-old kimono, with a kitsune fox lurking nearby. A singular
+cherry blossom tree stands out with detailed petals, and the scene is adorned
+with historic Japanese buildings, each with exquisite architectural details." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/pw-hdr-3.png"
+tweak="hdr, intricate detail<br/> don't forget the fox"
+chat_gpt="
+Detailed HDR portrayal of Akane in a rich, historic kimono, strolling beneath a
+cherry blossom canopy. A mischievous fox, representing the kitsune, keeps a
+close eye on her. The scene is teeming with intricate details, from the woven
+patterns on her kimono to the elaborate designs on ancient Japanese edifices.
 " %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/little-red-kimono-hood/pw-hdr-4.png"
+tweak="hdr, intricate detail<br/>don't forget the fox<br/>where is the hood?"
+chat_gpt="
+Detailed HDR scene of Akane in a bright red traditional kimono complemented by a hood, walking amidst a detailed ancient Japanese landscape. A sly fox keeps a watchful eye on her. Surrounding Akane are meticulous cherry blossom trees, ornate bridges, and traditional Japanese structures illuminated with striking lighting." %}
 
 </div>
