@@ -386,4 +386,54 @@ child's hand, yet spaced out to reduce clutter
 
 </div>
 
-That's all 37 of them!
+## Phone wallpapers
+
+<div class="row row-cols-2 row-cols-md-3">
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/solar-eclipse/wp1.png"
+chat_gpt="
+Pixel 8 Pro wallpaper illustrating a solar eclipse in its last quarter phase,
+blended with AI art influences. The image combines the realism of a professional
+camera shot with abstract touches reminiscent of ancient cave paintings and childlike doodles." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/solar-eclipse/wp2.png"
+chat_gpt="
+Wallpaper for Pixel 8 Pro capturing the beauty of a solar eclipse, enriched with AI art elements. The eclipse takes center stage, surrounded by delicate AI-generated motifs that draw inspiration from both early children's drawings and primitive cave art." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/solar-eclipse/wp3.png"
+chat_gpt="
+Pixel 8 Pro wallpaper featuring a solar eclipse set against a backdrop with soft
+hints of bluish auroras. The gentle AI art-inspired designs mimic the shimmering
+curtains of the Northern Lights, wrapping around the eclipse in a dreamlike manner." %}
+
+{% include an-img.html model="DALL·E 3"
+src="https://ai.nafsadh.art/img/solar-eclipse/wp4.png"
+chat_gpt="
+Wallpaper capturing the solar eclipse for Pixel 8 Pro, surrounded by a mix of
+subtle bluish-green aurora patterns and AI-generated motifs inspired by
+children's early drawings and cave art. The composition paints a celestial scene
+that's both nostalgic and dreamlike." %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/12b70f9f-4c59-4dec-b5e6-23d5294c95fc/0_2.png"
+href="https://www.midjourney.com/app/jobs/d272b999-63d9-4917-b4ca-1c9742b8e203/"
+prompt="
+Wallpaper capturing the beauty of a solar eclipse, enriched with AI art elements.
+The eclipse takes center stage, surrounded by delicate AI - generated motifs that
+draw inspiration from both early children's drawings and primitive cave art.
+--ar 9:20" %}
+
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/c497078d-2d6a-4297-89da-d0e118cdd381/0_3.png"
+href="https://www.midjourney.com/app/jobs/b8809740-f61a-4f48-a752-b7f16a45e96a/"
+prompt="
+Wallpaper for Pixel 8 Pro capturing the beauty of a solar eclipse, enriched with
+AI art elements. The eclipse takes center stage, surrounded by delicate AI -
+generated motifs that draw inspiration from both early children's drawings and
+primitive cave art.
+--ar 9:20" %}
+
+</div>
