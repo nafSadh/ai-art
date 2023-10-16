@@ -3,7 +3,7 @@ layout: post
 title: Solar Eclipse
 author: sadh
 categories: From Prompt
-image: "https://ai.nafsadh.art/img/solar-eclipse/cp2.png"
+image: "https://ai.nafsadh.art/img/solar-eclipse/sr1.png"
 tags:
   - solar-eclipse
   - eclipse
