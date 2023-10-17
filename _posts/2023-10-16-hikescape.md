@@ -12,7 +12,6 @@ tags:
   - nature
   - walk
   - midjourney
-  - dall-e-3
 image: https://cdn.midjourney.com/c6feb013-28d8-4df1-a40b-eb58cc00327a/0_2.png
 ---
 
