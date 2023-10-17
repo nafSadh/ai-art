@@ -51,8 +51,8 @@ src="https://cdn.midjourney.com/2e1e43ab-00f6-4ff0-9239-6c54b5efb7f2/0_2.png"
 href="https://www.midjourney.com/app/jobs/ac2ec204-ffd5-4890-bdd4-51934b42ce6a/"
 %}
 {% include an-img.html model="Modjourney 5.2"
-src="https://www.midjourney.com/app/jobs/9398558f-e3ef-4715-9ce2-9be2f8120de3/"
-href="https://cdn.midjourney.com/447001ed-16f7-46ec-b89b-334957943b51/0_3.png"
+src="https://cdn.midjourney.com/447001ed-16f7-46ec-b89b-334957943b51/0_3.png"
+href="https://www.midjourney.com/app/jobs/9398558f-e3ef-4715-9ce2-9be2f8120de3/"
 %}
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/4bc91cdb-5b93-4847-983d-906e88513a1e/0_2.png"
