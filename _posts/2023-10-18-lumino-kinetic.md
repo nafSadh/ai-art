@@ -7,7 +7,7 @@ tags:
   - lumino kinetic
   - daily theme
   - midjourney
-image:
+image: https://cdn.midjourney.com/a97a99c1-c72d-42d1-bc39-005415c7f319/0_1.png
 ---
 
 ## Midjourney and DALL·E 3
