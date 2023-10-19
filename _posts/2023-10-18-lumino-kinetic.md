@@ -206,8 +206,9 @@ prompt="bunch of medium sized colorful trees dancing in a lumino kinetic rhythm 
 %}
 
 {% include an-img.html model="DALL·E 3"
-src="https://ai.nafsadh.art/img/lumino-kinetic/ .png"
+src="https://ai.nafsadh.art/img/lumino-kinetic/dancing-trees.png"
 chat_gpt="
+Vector art, 3:2 aspect ratio, of a fantastical forest landscape. A group of medium-sized trees, each in a unique hue, appear to dance in unison. The trees are designed with lumino kinetic elements, making them glow and oscillate in harmony, enhancing the surreal atmosphere of the setting.
 " %}
 
 </div>
