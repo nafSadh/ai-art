@@ -163,49 +163,42 @@ Illustration, 3:2 aspect ratio, of an abstract art scene set on a calm sea. A bo
 
 > bunch of medium sized colorful trees dancing in a lumino kinetic rhythm in surreal surrounding
 
-<div class="row row-cols-1 row-cols-md-2">
+<div class="row row-cols-1 row-cols-md-3">
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/dfb423c2-00cc-4cd1-aaa1-7439609d6ccd/0_0.png"
 href="https://www.midjourney.com/app/jobs/b1c21134-7e2e-4e89-9873-21b7b16cd5ef/"
 prompt="bunch of medium sized colorful trees dancing in a lumino kinetic rhythm in surreal surrounding"
 %}
-<div class="row row-cols-1 row-cols-md-2">
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/391b1089-0e15-414a-bb2e-c409309c195c/0_3.png"
 href="https://www.midjourney.com/app/jobs/afefd793-51ee-4dbb-90b2-a372070b099e/"
 prompt="bunch of medium sized colorful trees dancing in a lumino kinetic rhythm in surreal surrounding"
 %}
-<div class="row row-cols-1 row-cols-md-2">
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/391b1089-0e15-414a-bb2e-c409309c195c/0_1.png"
 href="https://www.midjourney.com/app/jobs/9497bc9b-973c-4ed0-9cfc-22269414afcf/"
 prompt="bunch of medium sized colorful trees dancing in a lumino kinetic rhythm in surreal surrounding"
 %}
-<div class="row row-cols-1 row-cols-md-2">
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/0d20cee1-6125-4247-afa8-677e63ee0e9d/0_0.png"
 href="https://www.midjourney.com/app/jobs/d66a9417-9eaf-4a73-8d42-6450b6d11343/"
 prompt="bunch of medium sized colorful trees dancing in a lumino kinetic rhythm in surreal surrounding"
 %}
-<div class="row row-cols-1 row-cols-md-2">
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/f20fbf57-4859-4657-aaeb-62fdb6ee1aa5/0_0.png"
 href="https://www.midjourney.com/app/jobs/5029cdd1-5015-462a-a5e0-9c971a2517a7/"
 prompt="bunch of medium sized colorful trees dancing in a lumino kinetic rhythm in surreal surrounding"
 %}
-<div class="row row-cols-1 row-cols-md-2">
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/793ad901-5955-4337-bd04-00e6f02b4b2f/0_1.png"
 href="https://www.midjourney.com/app/jobs/51d551c0-8f5d-435d-acd4-710ae175fce1/"
 prompt="bunch of medium sized colorful trees dancing in a lumino kinetic rhythm in surreal surrounding"
 %}
-<div class="row row-cols-1 row-cols-md-2">
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/a97a99c1-c72d-42d1-bc39-005415c7f319/0_1.png"
 href="https://www.midjourney.com/app/jobs/ddfd5f6e-90e1-4966-b4a7-6bcb14e9b573/"
 prompt="bunch of medium sized colorful trees dancing in a lumino kinetic rhythm in surreal surrounding"
 %}
-<div class="row row-cols-1 row-cols-md-2">
 {% include an-img.html model="Modjourney 5.2"
 src="https://cdn.midjourney.com/793ad901-5955-4337-bd04-00e6f02b4b2f/0_3.png"
 href="https://www.midjourney.com/app/jobs/e7e2f88f-815b-4fe1-aa45-0fa0d451504f/"
