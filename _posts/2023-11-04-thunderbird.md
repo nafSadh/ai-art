@@ -7,7 +7,7 @@ tags:
   - thunderbird
   - daily theme
   - midjourney
-image: https://cdn.midjourney.com/079da412-ab78-4558-ae66-db932e33e0b4/0_0.png
+image: https://cdn.midjourney.com/8c6c603d-79b6-4d81-81ab-91d4a552e15c/0_0.png
 ---
 > A Thunderbird is a legendary creature in certain North American indigenous peoples' history and culture. It's considered a supernatural bird of power and strength. The Thunderbird is most frequently seen in the art, songs, and oral histories of many Pacific Northwest Coast cultures, but it is also found in various forms among the peoples of the American Southwest, East Coast of the United States, Great Lakes, and Great Plains.
 >
@@ -131,7 +131,7 @@ href="https://www.midjourney.com/jobs/e5786db4-1ec1-47dd-95dd-bf2826cbb272?index
 prompt="thunderbird composed of liquid in a dynamic and fluid form. The silhouette should give the impression of being crafted from water or another liquid substance, with a color palette that includes shades of blue, white, and metallic silver to suggest movement and fluidity. The background should be minimalistic but with subtle indications of a stormy sky, including bolts of lightning to reflect the bird's dominion over storms. The images should capture the thunderbird's power and grace as a living sculpture made from the rain and tempest it governs. --ar 3:2 --v 5.2"
 %}
 {% include an-img.html model="Modjourney 5.2"
-src="https://cdn.midjourney.com/8c6c603d-79b6-4d81-81ab-91d4a552e15c/0_0.webp"
+src="https://cdn.midjourney.com/8c6c603d-79b6-4d81-81ab-91d4a552e15c/0_0.png"
 href="https://www.midjourney.com/jobs/8c6c603d-79b6-4d81-81ab-91d4a552e15c?index=0"
 prompt="thunderbird composed of liquid in a dynamic and fluid form. The silhouette should give the impression of being crafted from water or another liquid substance, with a color palette that includes shades of blue, white, and metallic silver to suggest movement and fluidity. The background should be minimalistic but with subtle indications of a stormy sky, including bolts of lightning to reflect the bird's dominion over storms. The images should capture the thunderbird's power and grace as a living sculpture made from the rain and tempest it governs. --ar 3:2 --v 5.2"
 %}
@@ -141,25 +141,25 @@ prompt="thunderbird composed of liquid in a dynamic and fluid form. The silhouet
 
 <div class="row row-cols-1 row-cols-md-2">
 {% include an-img.html model="Modjourney 5.2"
-src="https://cdn.midjourney.com/2947dbad-7a18-4bce-a701-553b30971d58/0_3.webp"
+src="https://cdn.midjourney.com/2947dbad-7a18-4bce-a701-553b30971d58/0_3.png"
 href="https://www.midjourney.com/jobs/2947dbad-7a18-4bce-a701-553b30971d58?index=3"
 prompt="thunderbird sculpted from clay. The texture of the clay should be visible, with meticulous attention to the details of the bird's feathers and form, as if it were a handcrafted piece. The color palette should include earthy tones, such as terracotta and beige, reflecting the natural colors of clay. The backdrop should feature subtle impressions of thunder and lightning, crafted in a way that complements the clay thunderbird and adds to the overall artisanal charm of the scene. --ar 3:2 --v 5.2"
 %}
 
 {% include an-img.html model="Modjourney 5.2"
-src="https://cdn.midjourney.com/f0d84eae-743d-4b2d-84c5-38e4acb379d4/0_1.webp"
+src="https://cdn.midjourney.com/f0d84eae-743d-4b2d-84c5-38e4acb379d4/0_1.png"
 href="https://www.midjourney.com/jobs/f0d84eae-743d-4b2d-84c5-38e4acb379d4?index=1"
 prompt="a thunderbird constructed from LEGO bricks. The thunderbird should be prominently displayed in the center, crafted with a variety of colorful LEGO pieces to capture the essence of the mythical creature. Its wings should be spread wide, with an impressive wingspan, and the design should show a level of complexity and detail that pays homage to the art of LEGO building. The background should be blurred with a bokeh effect to keep the focus on the LEGO thunderbird, which stands out with its sharp clarity against the soft, out-of-focus light points. --ar 3:2 --v 5.2"
 %}
 
 {% include an-img.html model="Modjourney 5.2"
-src="https://cdn.midjourney.com/ff0a5306-59bd-4d15-bc30-e733b9d7ecb0/0_2.webp"
+src="https://cdn.midjourney.com/ff0a5306-59bd-4d15-bc30-e733b9d7ecb0/0_2.png"
 href="https://www.midjourney.com/jobs/cfc0c768-5b8e-4c9f-a0f7-51b1c09e11a3?index=0"
 prompt="Create a landscape-oriented image with a 3x2 grid, where each cell features a thunderbird crafted from various pieces of metal junk. Each thunderbird should look distinct, with an assemblage of gears, bolts, scrap metal, and other mechanical debris artistically combined to form the shape of the mythical bird. The color palette should include the metallic tones of iron, copper, silver, and rust, reflecting the diverse materials used. The background should be muted and industrial, with hints of a brewing storm, to enhance the metallic composition of each thunderbird without overwhelming the intricate details. --ar 3:2 --v 5.2"
 %}
 
 {% include an-img.html model="Modjourney 5.2"
-src="https://cdn.midjourney.com/7313936d-54cf-4b76-bb04-cb9a862971ba/0_0.webp"
+src="https://cdn.midjourney.com/7313936d-54cf-4b76-bb04-cb9a862971ba/0_0.png"
 href="https://www.midjourney.com/jobs/037658da-bab9-4670-b63d-c9632b2e4b2d?index=0"
 prompt="thunderbird constructed from metal junk. The thunderbirds should face forward, angled to give a three-dimensional effect, showcasing the birds' heads and beaks. Each sculpture should be composed of a variety of metallic scraps like gears, springs, and fragments of sheet metal, with textures and colors ranging from shiny chrome to oxidized copper and steel. The backdrop should be simple with a faint stormy theme, to emphasize the metallic thunderbirds. --ar 3:2 --v 5.2"
 %}
