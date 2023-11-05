@@ -9,6 +9,15 @@ tags:
   - midjourney
 image: https://cdn.midjourney.com/079da412-ab78-4558-ae66-db932e33e0b4/0_0.png
 ---
+> A Thunderbird is a legendary creature in certain North American indigenous peoples' history and culture. It's considered a supernatural bird of power and strength. The Thunderbird is most frequently seen in the art, songs, and oral histories of many Pacific Northwest Coast cultures, but it is also found in various forms among the peoples of the American Southwest, East Coast of the United States, Great Lakes, and Great Plains.
+>
+> The Thunderbird's name comes from the belief that the beating of its enormous wings causes thunder and stirs the wind, while its eyes shoot out lightning. It is often depicted as an immense bird, with a wingspan so wide that its flapping sounds like thunder, and when it blinks, lightning flashes.
+> 
+> In mythology, the Thunderbird is often considered the dominator of the skies, and as such, it is associated with the intention to maintain peace and order among the creatures of the Earth. In some stories, it's a protector of humans against evil spirits.
+> 
+> The concept of the Thunderbird has carried over into various aspects of popular culture and is often referenced in literature and media.
+
+Some images generated using DALL·E 3 and Modjourney 5.2 follows.
 
 ## Watercolor
 <div class="row row-cols-1 row-cols-md-2">
