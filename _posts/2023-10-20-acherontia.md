@@ -10,15 +10,17 @@ tags:
 image: https://cdn.midjourney.com/fac3e845-c8af-4e82-ad98-d6ed1518594d/0_2.png
 ---
 
-The term "Acherontia" refers to a genus of moths, best known for its three species: Acherontia atropos, Acherontia styx, and Acherontia lachesis.
+> The term "Acherontia" refers to a genus of moths, best known for its three species: Acherontia atropos, Acherontia styx, and Acherontia lachesis.
+> 
+> - **Acherontia atropos**: Known as the African death's-head hawkmoth, this is the most widely recognized species within the genus Acherontia. It can be identified by the skull-shaped pattern on its thorax, a feature that has influenced its common and scientific names. It is the largest moth in the British Isles, with a wingspan of 13 cm, and is a powerful flier, sometimes found on ships far from land.
+> 
+> - **Acherontia styx**: This species, also called the lesser death's head hawkmoth or bee robber, is found in Asia. It is particularly known for its fondness for honey and its ability to mimic the scent of bees, which allows it to enter beehives unharmed to feed.
+> 
+> - **Acherontia lachesis**: Commonly referred to as the greater death's head hawkmoth or bee robber, this moth is found in India, Sri Lanka, and much of the Oriental region. It also has a wingspan of up to 13 cm and shares the nocturnal habits and honey predilection of the other species, capable of mimicking the scent of honey.
+> 
+> Each of these moths has unique behaviors and adaptations that are fascinating to both scientists and enthusiasts. Their distinctive skull-like patterns have also made them a topic of interest in popular culture and symbolism.
 
-- **Acherontia atropos**: Known as the African death's-head hawkmoth, this is the most widely recognized species within the genus Acherontia. It can be identified by the skull-shaped pattern on its thorax, a feature that has influenced its common and scientific names【5†source】. It is the largest moth in the British Isles, with a wingspan of 13 cm, and is a powerful flier, sometimes found on ships far from land【6†source】.
-
-- **Acherontia styx**: This species, also called the lesser death's head hawkmoth or bee robber, is found in Asia. It is particularly known for its fondness for honey and its ability to mimic the scent of bees, which allows it to enter beehives unharmed to feed【7†source】.
-
-- **Acherontia lachesis**: Commonly referred to as the greater death's head hawkmoth or bee robber, this moth is found in India, Sri Lanka, and much of the Oriental region. It also has a wingspan of up to 13 cm and shares the nocturnal habits and honey predilection of the other species, capable of mimicking the scent of honey【8†source】.
-
-Each of these moths has unique behaviors and adaptations that are fascinating to both scientists and enthusiasts. Their distinctive skull-like patterns have also made them a topic of interest in popular culture and symbolism.
+Here are some Modjourney generated images:
 
 <div class="row row-cols-1 row-cols-md-2">
 
