@@ -169,5 +169,41 @@ src="https://ai.nafsadh.art/img/thunderbird/wood.png"
 chat_gpt="
 Create a landscape-oriented image that depicts a thunderbird as if it were a piece of acrylic woodwork. The thunderbird should have a stylized, carved appearance, resembling an intricate wooden sculpture with a glossy acrylic finish. The wood grain should be visible, adding texture and depth to the artwork, with the acrylic giving the thunderbird a shiny, polished look. Include a backdrop that suggests a thunderstorm, with abstract forms of lightning bolts etched into the woodwork, enhancing the scene's drama and emphasizing the bird's association with storms and thunder.
 " %}
+</div>
 
+## Thunderbird & Pyramid
+
+A few generations using the following prompt:
+
+> thunderbird sculpted from clay. The texture of the clay should be visible, with meticulous attention to the details of the bird's feathers and form, as if it were a handcrafted piece. The color palette should include earthy tones, such as terracotta and beige, reflecting the natural colors of clay. The backdrop should feature subtle impressions of thunder and lightning, crafted in a way that complements the clay thunderbird and adds to the overall artisanal charm of the scene. --ar 3:2 --v 5.2
+
+<div class="row row-cols-1 row-cols-md-2">
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/90af9d90-0dc9-4634-a2f1-716b0cd083eb/0_2.png"
+href="https://www.midjourney.com/jobs/90af9d90-0dc9-4634-a2f1-716b0cd083eb?index=2"
+%}
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/3bcfcbce-084d-4374-a556-47a2e281eb83/0_0.png"
+href="https://www.midjourney.com/jobs/3bcfcbce-084d-4374-a556-47a2e281eb83?index=0"
+%}
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/a91f3ee3-19c4-4910-861a-5dc3b6554b18/0_2.png"
+href="https://www.midjourney.com/jobs/da64175e-dabf-4732-a155-d6b9fbfeffdf?index=0"
+%}
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/60f1e0d4-e6cc-474e-a6fa-bbb515d43615/0_2.png"
+href="https://www.midjourney.com/jobs/60f1e0d4-e6cc-474e-a6fa-bbb515d43615?index=2"
+%}
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/52f10be1-a3c9-4981-9636-c6d2f8997589/0_2.png"
+href="https://www.midjourney.com/jobs/52f10be1-a3c9-4981-9636-c6d2f8997589?index=2"
+%}
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/4179924c-0b99-45a2-99af-6689586d7869/0_3.png"
+href="https://www.midjourney.com/jobs/c12dfa66-4764-4c4f-a21a-6d3ad054708f?index=0"
+%}
+{% include an-img.html model="Modjourney 5.2"
+src="https://cdn.midjourney.com/0554ade2-8874-44e7-a79d-0f94a9dcd672/0_0.png"
+href="https://www.midjourney.com/jobs/3737c773-ec65-4941-b17a-a9da7b365fb9?index=0"
+%}
 </div>
