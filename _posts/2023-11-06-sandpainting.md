@@ -129,7 +129,7 @@ prompt="a fine architecture done by dali Depict as a sandpainting illustration d
 %}
 
 {% include an-img.html model="DALL·E 3"
-src="https://ai.nafsadh.art/img/sandpainting/ .png"
+src="https://ai.nafsadh.art/img/sandpainting/dali.png"
 chat_gpt="Create a sandpainting illustration that embodies the essence of a fine architecture piece inspired by Salvador Dalí's surrealistic style, crafted by a professional graphic artist for their portfolio website. The illustration should have a 7:4 aspect ratio. Capture the dreamlike, bizarre structures that defy conventional physics and logic, typical of Dalí's work, with melting clocks, elongated shadows, and abstract forms. Use a variety of sand colors to mimic Dalí's vibrant palette. The texture of the sand should be fine and detailed, showcasing the intricacy possible in sand art, and filling the entire image with the medium.
 " %}
 </div>
