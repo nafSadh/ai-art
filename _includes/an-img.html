@@ -2,7 +2,8 @@
 {% assign id = include.id %}
 {% unless include.id %}
 {% assign id = include.src | remove:"https://cdn.midjourney.com/" |
-remove: "http://" |remove: "https://" | remove: ":" | remove: ".png"
+remove: "http://" |remove: "https://" | remove: ":" | remove: ".png" | 
+remove: "/0_0_2048_N.webp?method=width&qst=6"
 %}
 {% assign id = id | replace: "/","_" | replace: ".","_" %}
 {% endunless %}
