@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dr House and Friends (Fan Fiction)"
+title: "AI-scripted Encounters: A Fan Fiction Mosaic of TV's Beloved Characters"
 author: sadh
 categories: [Fan Fictions]
 tags:
@@ -9,11 +9,12 @@ tags:
 - Dr House
 - Joey
 - 
-image: https://ai.nafsadh.art/img/fan-fict/house-friends-3.png
+image: https://ai.nafsadh.art/img/fan-fict/house-friends-4.png
 ---
 
 I explored how Large Language Models can create fictional scenarios inspired by characters from well-known TV shows and various entertainers.
 
+Here is a copy of my interaction with ChatGPT.
 
 <hr/>
 Imagine Dr House and Joey from FRIENDS meet. How would a conversation between them go?
