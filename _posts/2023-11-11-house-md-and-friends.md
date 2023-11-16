@@ -12,8 +12,8 @@ tags:
 image: https://ai.nafsadh.art/img/fan-fict/house-friends-3.png
 ---
 
-I attempted how LLMs can imagine fictional settings based on popular TV show 
-characters and some other entertainers.
+I explored how Large Language Models can create fictional scenarios inspired by characters from well-known TV shows and various entertainers.
+
 
 <hr/>
 Imagine Dr House and Joey from FRIENDS meet. How would a conversation between them go?
