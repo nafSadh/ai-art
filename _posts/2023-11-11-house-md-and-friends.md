@@ -12,12 +12,9 @@ tags:
 image: https://ai.nafsadh.art/img/fan-fict/house-friends-3.png
 ---
 
-<!-- Output copied to clipboard! -->
+I attempted how LLMs can imagine fictional settings based on popular TV show 
+characters and some other entertainers.
 
-<!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 35 -->
 <hr/>
 Imagine Dr House and Joey from FRIENDS meet. How would a conversation between them go?
 <hr>
