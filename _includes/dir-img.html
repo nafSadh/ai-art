@@ -1,8 +1,13 @@
 {% assign themes = "dark,light" | split: "," %}
 
+<!-- model -->
 {% assign model = include.model %}
-{% if include.dalle %}
-{% assign model = "DALL·E " | append: include.dalle %}
+{% if include.dalle %}{% assign model = "DALL·E " | append: include.dalle %}{% endif %}
+{% if include.imagen %}{% assign model = "Imagen " | append: include.imagen %}{% endif %}
+
+<!-- context url -->
+{% if include.bard %}
+{% assign context_url = "https://g.co/bard/share/" | append: include.bard %}
 {% endif %}
 
 <!-- for loop inspired by https://jekyllcodex.org/without-plugin/image-gallery/# -->
@@ -26,7 +31,6 @@ filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | la
 | replace:"_"," "
 | append:"…"%}
 {% endif %}
-
 
 <div class="col">
     <figure class="">
@@ -80,6 +84,15 @@ filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | la
                         prompt snippet
                     </h5>
                     <p class="{{p_clz}}">{{ snip}}</p>
+                </div>
+                {% endif %}
+                <!-- snippet -->
+                {% if context_url %}
+                <div>
+                    <h5 class="{{phclz}}"><i class="fa-solid fa-wand-magic-sparkles pe-1"></i>
+                        context
+                    </h5>
+                    <p class="{{p_clz}}"> <a target="_blank" href="{{context_url}}">{{context_url}}</a> </p>
                 </div>
                 {% endif %}
                 <!-- prompt -->
