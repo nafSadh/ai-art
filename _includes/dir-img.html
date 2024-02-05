@@ -6,6 +6,7 @@
 {% if include.imagen %}{% assign model = "Imagen " | append: include.imagen %}{% endif %}
 
 <!-- context url -->
+{% assign context_url = nil %}
 {% if include.bard %}
 {% assign context_url = "https://g.co/bard/share/" | append: include.bard %}
 {% endif %}
