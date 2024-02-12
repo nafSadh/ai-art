@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crab emoji 🦀"
+title: "Crab emoji"
 author: sadh
 categories: [Modjourney daily theme]
 tags:
