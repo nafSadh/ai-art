@@ -4,6 +4,9 @@
 {% assign model = include.model %}
 {% if include.dalle %}{% assign model = "DALL·E " | append: include.dalle %}{% endif %}
 {% if include.imagen %}{% assign model = "Imagen " | append: include.imagen %}{% endif %}
+{% if include.midjourney %}{% assign model = "Midjourney " | append: include.midjourney %}{% endif %}
+
+
 
 <!-- context url -->
 {% assign context_url = nil %}
@@ -16,6 +19,17 @@
 file.extname == '.webp' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.jpg' %}{% assign
 filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
 
+<!-- Midjourney preprocessing -->
+{% assign mj_url = nil %}
+{% if include.midjourney %}
+{% assign mjs= filename | split: '_' %}
+{% assign mj_idx= mjs | slice: -2,2 %}
+{% assign mj_url = "https://www.midjourney.com/jobs/MJ_ID?index=MJ_X" 
+| replace: 'MJ_ID',mj_idx.first | replace:'MJ_X',mj_idx.last %}
+{% assign mj_snip_len = mjs.size | minus: 3 %}
+{% assign mj_snips = mjs | slice: 1,mj_snip_len %}
+{% endif %}
+
 <!-- id -->
 {% assign id = filename | replace: "/","_" | replace: ".","_" | replace:" ","_" | replace:",","_" %}
 <!-- snippet -->
@@ -25,6 +39,9 @@ filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | la
 {% endif %}
 {% if include.snips == "auto" %}
 {% assign snip = filename | replace: "_"," "%}
+{% endif %}
+{% if include.midjourney %}
+{% assign snip = mj_snips | join:' '| append:"…"%}
 {% endif %}
 {% if include.dalle %}
 {% assign snip = filename
@@ -49,13 +66,14 @@ filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | la
                 <small>#{{include.ref}}</small>
             </span>
             {% endif %}
-            <a class="{{b_clz}} text-end" href="{{ file.path | relative_url }}" target="_blank">
-                {% if include.href %}
-                <i class="fa-solid fa-up-right-from-square"></i>
-                {% else %}
-                <i class="fa-solid fa-image"></i>
-                {% endif %}
-            </a>
+            <!-- corner link -->
+            {% if mj_url %}
+            <a class="{{b_clz}} text-end" href="{{ mj_url }}" target="_blank"><i class="fa-solid fa-up-right-from-square"></i></a>
+            {% elsif include.href %}
+            <a class="{{b_clz}} text-end" href="{{ include.href }}" target="_blank"><i class="fa-solid fa-up-right-from-square"></i></a>
+            {% else%}
+            <a class="{{b_clz}} text-end" href="{{ file.path | relative_url }}" target="_blank"><i class="fa-solid fa-image"></i></a>
+            {% endif %}
         </figcaption>
         <div class="{{th}} offcanvas offcanvas-end" data-bs-backdrop="true" data-bs-scroll="true" data-bs-theme="{{th}}"
             tabindex="-1" id="detail_{{id}}_{{th}}">
@@ -70,6 +88,11 @@ filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | la
                     <b>model:</b> <span>{{model}}</span>
                     {% if include.href %}
                     <a href="{{ file.path | relative_url }}" target="_blank" class="badge text-reset border-bottom-0">
+                        <i class="fa-solid fa-up-right-from-square"></i>
+                    </a>
+                    {% endif %}
+                    {% if mj_url %}
+                    <a href="{{ mj_url }}" target="_blank" class="badge text-reset border-bottom-0">
                         <i class="fa-solid fa-up-right-from-square"></i>
                     </a>
                     {% endif %}

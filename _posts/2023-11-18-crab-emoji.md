@@ -4,7 +4,6 @@ title: "Crab emoji"
 author: sadh
 categories: [Modjourney daily theme]
 tags:
-  - 🦀
   - crab emoji
   - daily theme
   - midjourney
